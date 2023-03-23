@@ -1,3 +1,3 @@
-# Shopifyy React Ecommerce App
+# Shopifyy Ecommerce App
 
 
